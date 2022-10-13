@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1665000667 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+	"student.h"
+
+1664989052 c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\btree.h
+	<exception>
+	<string>
+	<iostream>
+	"student.h"
+
+1664813333 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\test_suite.cpp
+
+1664987490 source:c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\student.cpp
+	"student.h"
+
+1664987097 c:\users\user\onedrive - universidad de guadalajara\2do sem\ed1\act 12\btree\student.h
+	<string>
+	<ostream>
+
+1665065552 source:c:\users\user\onedrive - universidad de guadalajara\3er sem\ed2\prog02\btree\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	"btree.h"
+	"student.h"
+
+1665066097 c:\users\user\onedrive - universidad de guadalajara\3er sem\ed2\prog02\btree\btree.h
+	<exception>
+	<string>
+	<iostream>
+	"student.h"
+
+1664987097 c:\users\user\onedrive - universidad de guadalajara\3er sem\ed2\prog02\btree\student.h
+	<string>
+	<ostream>
+
+1664987490 source:c:\users\user\onedrive - universidad de guadalajara\3er sem\ed2\prog02\btree\student.cpp
+	"student.h"
+
+1665166113 source:c:\users\juanr_axzldpc\onedrive\escritorio\btree(1)\btree\main.cpp
+	<iostream>
+	"btree.h"
+	"student.h"
+
+1665166471 c:\users\juanr_axzldpc\onedrive\escritorio\btree(1)\btree\btree.h
+	<exception>
+	<iomanip>
+	<iostream>
+	<fstream>
+	<cstring>
+	"student.h"
+
+1664987098 c:\users\juanr_axzldpc\onedrive\escritorio\btree(1)\btree\student.h
+	<string>
+	<ostream>
+
+1664987492 source:c:\users\juanr_axzldpc\onedrive\escritorio\btree(1)\btree\student.cpp
+	"student.h"
+
